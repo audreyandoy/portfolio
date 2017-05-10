@@ -4,6 +4,12 @@ body {
   background-color: #ebdeda;
 }
 
+.progress {
+  font-size: 50px;
+  margin: 10%;
+
+}
+
 .navbar {
   background-color: #ffe4e1;
 }
